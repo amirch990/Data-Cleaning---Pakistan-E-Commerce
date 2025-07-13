@@ -1,5 +1,5 @@
 📁 Initial Data Exploration – Pakistan E-Commerce Dataset
-
+=
 📌 Project Overview
 
 This notebook focuses on preliminary data exploration and cleaning for a real-world e-commerce dataset from Pakistan.
@@ -17,7 +17,6 @@ Instead of relying on generic fillers (like "Unknown" or the mode), the notebook
 This preserves semantic accuracy and reflects real business logic.
 
 This project is intended as a foundational step in building good habits around clean, interpretable datasets — with emphasis on semantic integrity and structured thinking.
-============================
 
 For more advanced data cleaning, feature engineering, and full-scale EDA with rich visualizations and modeling,
 see my Olympic Weightlifting Analysis Project – where I apply techniques like:
