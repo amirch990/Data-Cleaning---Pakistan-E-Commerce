@@ -15,3 +15,12 @@ The goal is to prepare the dataset for further analysis by identifying structura
 
 Instead of relying on generic fillers (like "Unknown" or the mode), the notebook uses a predefined SKU-to-Category mapping to intelligently populate missing values in category_name_1.
 This preserves semantic accuracy and reflects real business logic.
+
+This project is intended as a foundational step in building good habits around clean, interpretable datasets — with emphasis on semantic integrity and structured thinking.
+============================
+
+For more advanced data cleaning, feature engineering, and full-scale EDA with rich visualizations and modeling,
+see my Olympic Weightlifting Analysis Project – where I apply techniques like:
+* Data enrichment via the Wikipedia API
+* Country normalization using pycountry
+* Regex-based text standardization + Imputation based on external reference datasets
